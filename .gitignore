@@ -1,0 +1,5 @@
+# Ignore temp folder
+temp/
+
+git rm -r --cached temp/
+
