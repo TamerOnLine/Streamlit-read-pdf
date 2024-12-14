@@ -16,7 +16,7 @@ An interactive Streamlit application designed to extract and display content fro
 
 ## Screenshots
 
-![Screenshot of the interface](./screenshots/interface.png)
+![Screenshot of the interface](./img/index.png)
 
 ---
 
